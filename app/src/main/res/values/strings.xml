@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial6</string>
+    <string name="spinner_title">Colour</string>
+    <string-array name="colours">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>Purple</item>
+        <item>Eraser</item>
+    </string-array>
+</resources>
